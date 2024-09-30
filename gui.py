@@ -6,6 +6,7 @@ import re
 from tkinter import Tk, Frame, Label, StringVar, PhotoImage, Button
 import customtkinter
 
+#New Class
 class newproject:
     def __init__(self, master):
         self.window = master
